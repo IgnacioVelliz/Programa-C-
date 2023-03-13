@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\PrimerParcial\BE\bin\Debug\BE.dll
+C:\Users\User\Desktop\PrimerParcial\BE\bin\Debug\BE.pdb
+C:\Users\User\Desktop\PrimerParcial\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrimerParcial\BE\obj\Debug\BE.dll
+C:\Users\User\Desktop\PrimerParcial\BE\obj\Debug\BE.pdb
+C:\Users\User\Desktop\PrimerParcial\BE\obj\Debug\BE.csprojAssemblyReference.cache
